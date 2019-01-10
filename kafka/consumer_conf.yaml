@@ -1,0 +1,9 @@
+#bootstrap.servers: "47.110.54.206:9092,47.110.52.44:9092,47.110.34.37:9092,47.110.41.120:9092"
+bootstrap.servers: "119.3.44.28:9092,119.3.47.237:9092,119.3.40.178:9092,119.3.42.210:9092"
+group.id: wechat_group_test
+auto.offset.reset: earliest
+topics: 'draftelf.draft.wechat.raw.test'
+stop_on_eof: false
+poll_timeout: 0
+non_blocking: false
+enable.auto.commit: false

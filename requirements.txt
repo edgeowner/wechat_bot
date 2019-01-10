@@ -1,0 +1,14 @@
+wxpy
+pymysql
+matplotlib
+apscheduler
+pandas
+hanlp
+pillow
+configparser
+DBUtils
+cachetools
+oss2
+pyperclip
+redis-lru
+redis==2.10.6

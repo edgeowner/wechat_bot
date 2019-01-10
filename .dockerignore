@@ -1,0 +1,9 @@
+.git
+.idea
+.roprojeck
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
